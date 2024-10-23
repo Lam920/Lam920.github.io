@@ -11,7 +11,7 @@ Since September 2018, I started studying Biomedial Enginerring - School of Elect
 
 
 
-<h2> 🔭 Interesting Topics:</h2>
+<h2> 🔭 Interested in Topics:</h2>
 <li>Embedded System</li>
 <li>Internet of Things</li>
 <li>Linux Kernel</li>
